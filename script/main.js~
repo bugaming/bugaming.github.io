@@ -1,0 +1,3 @@
+function addCalendar(section){
+    console.log("loaded calendar");
+}

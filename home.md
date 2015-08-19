@@ -1,5 +1,5 @@
 ---
-title: Brandon University Gaming Association
+title: BUGA
 layout: default
 ---
 <iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming%20Association&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23cc0000&amp;

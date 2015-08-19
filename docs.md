@@ -14,8 +14,6 @@ layout: default
 
 - August 31, 2015 
 [Agenda](https://docs.google.com/document/d/1_kXRmKc7XpVVsCCA9zrhJt059LbgaMjUfW1wUs30au0/edit?usp=sharing)
-[Minutes](.)
-- Next One
-
+Minutes
 
 Something else

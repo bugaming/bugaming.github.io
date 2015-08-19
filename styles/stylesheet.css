@@ -80,6 +80,10 @@ header h2 {
   height: 30px;
 }
 
+#main_content {
+  float: left;
+}
+
 footer {
   padding-top: 20px;
   padding-bottom: 30px;

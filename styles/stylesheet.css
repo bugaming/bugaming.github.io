@@ -81,7 +81,7 @@ header h2 {
 
 header .navigation #main_content footer {
   float: left;
-  clear: right;
+  clear: left;
 }
 
 footer {

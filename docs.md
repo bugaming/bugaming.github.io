@@ -10,11 +10,12 @@ layout: default
 
 [Member Survey](https://docs.google.com/forms/d/1iAJYumQGR-6GML70MTfZ1q9XztjcQZUrXgF_BCVTid8/viewform?usp=send_form)
 
-Meetings:
+### Meetings:
 
 - August 31, 2015 
 [Agenda](https://docs.google.com/document/d/1_kXRmKc7XpVVsCCA9zrhJt059LbgaMjUfW1wUs30au0/edit?usp=sharing)
 [Minutes](.)
 - Next One
+
 
 Something else

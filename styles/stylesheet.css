@@ -50,7 +50,7 @@ body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 13px;
   line-height: 1.5;
-  padding-left: 4px;
+  padding-left: 18px;
   color: #000;
 }
 
@@ -137,6 +137,11 @@ h6 {
 }
 
 p {
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+ul, ol {
   margin-bottom: 20px;
   font-weight: 300;
 }

@@ -76,13 +76,7 @@ header h2 {
 }
 
 .navigation {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  clear:both;
-}
-
-#main_content {
-  float: none;
+  height: 30px;
 }
 
 footer {

@@ -75,13 +75,8 @@ header h2 {
   letter-spacing: -1px;
 }
 
-.navigation {
+#navigation {
   height: 30px;
-}
-
-header .navigation #main_content footer {
-  float: left;
-  clear: left;
 }
 
 footer {

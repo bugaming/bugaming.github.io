@@ -79,11 +79,11 @@ header h2 {
   padding-top: 0px;
   padding-bottom: 30px;
   float:left;
-  clear:left;
 }
 
 #main_content {
   float: left;
+  clear:left;
 }
 
 footer {

@@ -9,5 +9,5 @@ $(document).ready(
 			}
 		);
 	};
-	console.log("loaded");
+	console.log("nav loaded");
 );

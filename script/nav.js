@@ -8,5 +8,6 @@ $(document).ready(
 				$('ul', this).fadeOut();
 			}
 		);
-	}
+	};
+	console.log("loaded");
 );

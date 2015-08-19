@@ -146,6 +146,10 @@ ul ol {
   font-weight: 300;
 }
 
+li {
+  margin-bottom: 4px;
+}
+
 blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;

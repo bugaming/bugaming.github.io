@@ -141,7 +141,7 @@ p {
   font-weight: 300;
 }
 
-ul ol {
+ul, ol {
   margin-bottom: 20px;
 }
 

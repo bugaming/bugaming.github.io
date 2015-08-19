@@ -2,6 +2,10 @@
 title: BUGA
 layout: default
 ---
+
+We have our first meeting of the term coming up soon. August 31 to be exact
+Check out the details [here](https://docs.google.com/document/d/1_kXRmKc7XpVVsCCA9zrhJt059LbgaMjUfW1wUs30au0/edit?usp=sharing):
+
 <iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming%20Association&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23cc0000&amp;
 	src=bqvgfteul2sj9bofpul4mnqrns%40group.calendar.google.com&amp;color=%23182C57&amp;
 	src=5smr0nqrje6vhaeipik8hnbdvo%40group.calendar.google.com&amp;color=%23B1365F&amp;

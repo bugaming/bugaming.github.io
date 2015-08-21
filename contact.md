@@ -12,22 +12,24 @@ Twitter:
 
 Youtube: 
 
-- President: Jacob Wolfe 
-- email: 
-- phone: 
-- 
+Jacob Wolfe: President
 
-- Vice President: Alex Trush 
+- email: 
+
+- phone: 
+
+Alex Trush: Vice President, Game Dev Officer
+
 - email: alextrush64@gmail.com
+
 - phone: (204)572-1000
-- 
 
-- Secretary: Kaylin Liddle
-- email: 
-- phone: 
-- 
+Kaylin Liddle: Secretary
 
-- Treasurer: Ariane Shairp
 - email: 
+
 - phone: 
-- 
+
+Ariane Shairp: Treasurer
+
+- email: 

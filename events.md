@@ -1,3 +1,7 @@
+---
+title: Events @ BUGA
+layout: default
+---
 [b]Mondays[/b] – Anime Night or Movie Night*, starts at 5pm and the location will be announced on our Facebook page and Google calendar. 
 
 *Movie nights will alternate with anime night, for every two Mondays of Anime, there will be one Monday of Movies

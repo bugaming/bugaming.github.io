@@ -3,7 +3,7 @@ title: Contact BUGA
 layout: default
 ---
 
-<iframe src="https://www.google.com/calendar/embed?Brandon%20University%20Gaming%20Association&amp;
+<iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming%20Association&amp;
 	mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;
 	src=luti4prn3nol7opjh5tctt7gfk%40group.calendar.google.com&amp;color=%2323164E&amp;
 	src=19ajahpcefv24mlnteai1hp6f0%40group.calendar.google.com&amp;color=%23182C57&amp;

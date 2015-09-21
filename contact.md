@@ -2,6 +2,7 @@
 title: Contact BUGA
 layout: default
 ---
+
 <iframe src="https://www.google.com/calendar/embed?Brandon%20University%20Gaming%20Association&amp;
 	mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;
 	src=luti4prn3nol7opjh5tctt7gfk%40group.calendar.google.com&amp;color=%2323164E&amp;
@@ -14,46 +15,46 @@ layout: default
 	src=jp00e2dqfcfbduekqqbppst9io%40group.calendar.google.com&amp;color=%23B1365F&amp;
 	ctz=America%2FWinnipeg" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-Club Email: buga.brandonu@gmail.com
+*Email:* buga.brandonu@gmail.com
 
-Facebook: https://www.facebook.com/groups/bugs1/
+*Facebook:* https://www.facebook.com/groups/bugs1/
 
 Twitter: ???
 
 Youtube: ???
 
 
-Jacob Wolfe: President, Smash Bros Tournament Officer
+*Jacob Wolfe:* President, Smash Bros Tournament Officer
 
 - email: wolfy2033@live.ca
 
 
-Alex Trush: Vice President, Game Development Officer
+*Alex Trush:* Vice President, Game Development Officer
 
 - email: alextrush64@gmail.com
 
 - phone: (204)572-1000
 
 
-Kaylin Liddle: Secretary
+*Kaylin Liddle:* Secretary
 
 - email: 8kaylin8@gmail.com
 
 
-Ariane Shairp: Treasurer
+*Ariane Shairp:* Treasurer
 
 - email: a.shairp@hotmail.com
 
 
-Nabil Roberts: Anime Night Officer
+*Nabil Roberts:* Anime Night Officer
 
-Reid Ogilivie: Movie Night Officer
+*Reid Ogilivie:* Movie Night Officer
 
-Chad Gorowski: Table Top RPGs
+*Chad Gorowski:* Table Top RPGs
 
-Dakota Bicklmeier: Art Jam Officer
+*Dakota Bicklmeier:* Art Jam Officer
 
-Connor Smith: Retro Consoles Officer
+*Connor Smith:* Retro Consoles Officer
 
-Everett Magee: Computer Gaming Officer
+*Everett Magee:* Computer Gaming Officer
 

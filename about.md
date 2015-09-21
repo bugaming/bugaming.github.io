@@ -2,6 +2,7 @@
 title: About BUGA
 layout: default
 ---
+
 Hello and thank you for your interest in Brandon University Gaming Association (BUGA). 
 
 We would like to officially welcome you to our club! We are a carefree gaming club based around console, pc, board, and role-playing games. BUGA started a couple years back, but has continued to grow and draw in more members. We won’t judge you, or tease you for loving games, anime or literary anything! Be as nerdy as you wish to be around us, and we will probably be just as nerdy back! Typically you can find most of our members in the Charlie Biggs down-under between our classes. We love to hang out and talk about everything from Monster Girls to Metal Gear Solid. If you think this is something you would like to join in, then come on down and chat with us!

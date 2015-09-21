@@ -3,17 +3,17 @@ title: Events @ BUGA
 layout: default
 ---
 
-*Mondays* – Anime Night or Movie Night, starts at 5pm and the location will be announced on our Facebook page and Google calendar. 
+**Mondays** – Anime Night or Movie Night, starts at 5pm and the location will be announced on our Facebook page and Google calendar. 
 
-**Movie nights will alternate with anime night, for every two Mondays of Anime, there will be one Monday of Movies**
+*Movie nights will alternate with anime night, for every two Mondays of Anime, there will be one Monday of Movies*
 
-*Tuesdays* – Pathfinder Society/13th Age, 13th Age will alternate with Pathfinder Society. 
+**Tuesdays** – Pathfinder Society/13th Age, 13th Age will alternate with Pathfinder Society. 
 
-For more information go to the Pathfinder Society Facebook or contact Chad Gorowski (gorowski_chad@hotmail.com) for 13th Age.
+For more information go to the [Pathfinder Society Facebook](https://www.facebook.com/groups/28750893996/) or contact [Chad Gorowski](gorowski_chad@hotmail.com) for 13th Age.
 
-*Thursdays* – Art Jam or Game Dev, starts at 5pm and the location will be announced on our Facebook page and Google calendar. These two events alternate every Thursday.
+**Thursdays** – Art Jam or Game Dev, starts at 5pm and the location will be announced on our Facebook page and Google calendar. These two events alternate every Thursday.
 
-*Fridays* – Game Nights, starts at 4pm and will be held at the Charlie Biggs down-under or in Meeting rooms A and B (in the corridor that leads to the cafeteria, with all the windows)
+**Fridays** – Game Nights, starts at 4pm and will be held at the Charlie Biggs down-under or in Meeting rooms A and B (in the corridor that leads to the cafeteria, with all the windows)
 
 Weekly events are not the only things we do. Bake Sales, Socials, Live-streaming, Podcasts and much more, are just a few activities we hold throughout the year.
 

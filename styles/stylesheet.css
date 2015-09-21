@@ -76,6 +76,10 @@ header h2 {
   letter-spacing: -1px;
 }
 
+header img {
+  float:right;
+}
+
 #navigation {
   height: 50px;
 }

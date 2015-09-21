@@ -3,7 +3,7 @@ title: BUGA
 layout: default
 ---
 
-<iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming20Association&amp;
+<iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming%20Association&amp;
 	mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23cc0000&amp;
 	src=buga.brandonu%40gmail.com&amp;color=%23711616&amp;
 	src=bqvgfteul2sj9bofpul4mnqrns%40group.calendar.google.com&amp;color=%23182C57&amp;

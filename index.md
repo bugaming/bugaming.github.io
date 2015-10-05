@@ -6,7 +6,7 @@ layout: default
 <iframe src="https://www.google.com/calendar/embed?title=Brandon%20University%20Gaming%20Association&amp;
 	mode=WEEK&amp;height=600&amp;wkst=2&amp;bgcolor=%23cc0000&amp;
 	src=buga.brandonu%40gmail.com&amp;color=%23711616&amp;
-	src=8ias1ik8omppntip5tb5jh51o4%40group.calendar.google.com&amp;color=%231B887A
+	src=8ias1ik8omppntip5tb5jh51o4%40group.calendar.google.com&amp;color=%231B887A&amp;
 	src=bqvgfteul2sj9bofpul4mnqrns%40group.calendar.google.com&amp;color=%23182C57&amp;
 	src=5smr0nqrje6vhaeipik8hnbdvo%40group.calendar.google.com&amp;color=%23B1365F&amp;
 	src=dbsa5jolj72v3gf2qldk24nrn0%40group.calendar.google.com&amp;color=%238C500B&amp;

@@ -17,4 +17,6 @@ layout: default
 [Agenda](https://docs.google.com/document/d/1_kXRmKc7XpVVsCCA9zrhJt059LbgaMjUfW1wUs30au0/edit?usp=sharing)
 [Minutes](https://docs.google.com/document/d/1faKD6F5phvfahtd0FLneg21x6NXDp6Uc4nePIYg-0ZI/edit?usp=sharing)
 
-Something else
+- October 9, 2015 
+[Agenda](https://docs.google.com/document/d/1HRre_P1zzh07sFTuDLuhIwDF8e-y343gUdxTWO2kAYc/edit?usp=sharing)
+Minutes
